@@ -9,3 +9,6 @@ This is a mini message board project built using express.The purpose of this pro
 #### <li>It is just a simple page with two default message showing.</li>
 
 #### <li>You can add a new message by clicking the link 'send new message' and after adding message,you will be redirected to the main page.</li>
+
+#### <li>I also learned to use heroku to deploy project.</li>
+
