@@ -3,11 +3,11 @@ extents
 block content
   h1= title
   p Welcome to #{title}
+  a(href='/new') Send new message
 each msg in messages
   ul
-    li= msg.user
+    li=msg.user
     li= msg.text
     li= msg.added
      
-
   
